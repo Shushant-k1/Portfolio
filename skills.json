@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/python.png",
+    "usage": "Core language for data science, scripting, and machine learning"
+  },
+  {
+    "name": "NumPy",
+    "icon": "https://img.icons8.com/color/48/numpy.png",
+    "usage": "Numerical computing and matrix operations"
+  },
+  {
+    "name": "Pandas",
+    "icon": "https://img.icons8.com/color/48/pandas.png",
+    "usage": "Data manipulation and analysis using DataFrames"
+  },
+  {
+    "name": "Scikit-Learn",
+    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-scikit-learn-a-python-machine-learning-library-logo-color-tal-revivo.png",
+    "usage": "Machine learning models and pipelines"
+  },
+  {
+    "name": "PyTorch",
+    "icon": "https://img.icons8.com/color/48/pytorch.png",
+    "usage": "Dynamic deep learning framework"
+  },
+  {
+    "name": "TensorFlow",
+    "icon": "https://img.icons8.com/color/48/tensorflow.png",
+    "usage": "Deep learning models and neural networks"
+  },
+  {
+    "name": "Matplotlib",
+    "icon": "https://img.icons8.com/color/48/matplotlib.png",
+    "usage": "2D plotting and data visualization"
+  },
+  {
+    "name": "Seaborn",
+    "icon": "ttps://img.icons8.com/color/48/seaborn.png",
+    "usage": "Statistical data visualization"
+  },
+  {
+    "name": "Jupyter",
+    "icon": "https://img.icons8.com/ios-filled/48/jupyter.png",
+    "usage": "Interactive notebooks for analysis and prototyping"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "https://img.icons8.com/color/48/mongodb.png",
+    "usage": "NoSQL database for unstructured and semi-structured data"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/mysql-logo.png",
+    "usage": "Relational database management system"
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "https://img.icons8.com/color/48/postgresql.png",
+    "usage": "Advanced open-source SQL database"
+  },
+  {
+    "name": "Google Cloud Platform (GCP)",
+    "icon": "https://img.icons8.com/color/48/google-cloud.png",
+    "usage": "Cloud compute, storage, ML (Vertex AI), BigQuery"
+  },
+  {
+    "name": "AWS",
+    "icon": "https://img.icons8.com/color/48/amazon-web-services.png",
+    "usage": "Cloud compute, storage, and ML services (SageMaker)"
+  },
+  {
+    "name": "Docker",
+    "icon": "https://img.icons8.com/color/48/docker.png",
+    "usage": "Containerization for reproducible ML environments"
+  },
+  {
+    "name": "Git",
+    "icon": "https://img.icons8.com/color/48/git.png",
+    "usage": "Version control and collaborative development"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/ios-glyphs/48/github.png",
+    "usage": "Remote code hosting, collaboration, CI/CD"
+  },
+  {
+    "name": "Streamlit",
+    "icon": "https://img.icons8.com/color/48/streamlit.png",
+    "usage": "Quick dashboard and ML app prototyping"
+  }
+]
