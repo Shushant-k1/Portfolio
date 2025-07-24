@@ -1,0 +1,52 @@
+[
+  {
+  "name": "Olympics Data Analysis",
+  "desc": "Interactive data analysis dashboard to explore historical Olympics data. Built using Python, Pandas, Plotly, and Streamlit. Features visual insights by medals, countries, and sports.",
+  "image": "olympics",
+  "category": "Data Analysis",
+  "links": {
+    "view": "https://olympics-data-search-app-url.com",  
+    "code": "https://github.com/Shushant-k1/olympics-data-analysis"
+  }
+},
+  {
+  "name": "RAG Multisource Assistant",
+  "desc": "A Retrieval-Augmented Generation assistant that accepts YouTube links, PDFs, or text input, and answers queries using a vector database. Built using Python, Streamlit, LangChain, FAISS, and OpenAI APIs.",
+  "image": "RAg",
+  "category": "LLM",
+  "links": {
+    "view": "https://rag-multisource-assistant.streamlit.app",
+    "code": "https://github.com/Shushant-k1/rag-multisource-assistant"
+  }
+},
+{
+  "name": "Potato Leaf Disease Classifier",
+  "desc": "A deep learning model for classifying potato leaf diseases using image data. Built with Python, TensorFlow, Keras, and OpenCV. Achieved high accuracy on multiple disease classes through CNN-based architecture.",
+  "image": "Potato",
+  "category": "Deep Learning",
+  "links": {
+    "view": "https://www.linkedin.com/posts/your-link-here",
+    "code": "https://github.com/Shushant-k1/potato-leaf-disease-classification"
+  }
+},
+  {
+  "name": "Fashion MNIST Classifier",
+  "desc": "Image classification model trained on the Fashion MNIST dataset to categorize clothing items such as shirts, sneakers, bags, and more. Built using Python, TensorFlow, and Keras.",
+  "image": "Fashion",
+  "category": "Deep Learning",
+  "links": {
+    "view": "https://github.com/Shushant-k1/fashion-mnist-classifier", 
+    "code": "https://github.com/Shushant-k1/fashion-mnist-classifier"
+  }
+},
+{
+  "name": "House Price Prediction",
+  "desc": "A machine learning model to predict house prices based on various features like area, location, number of rooms, etc. Built using Python, Pandas, Scikit-Learn, and Matplotlib for visualization.",
+  "image": "House",
+  "category": "Machine-Learning",
+  "links": {
+    "view": "https://github.com/Shushant-k1/house-price-prediction",
+    "code": "https://github.com/Shushant-k1/house-price-prediction"
+  }
+}
+]
